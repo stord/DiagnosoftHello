@@ -1,0 +1,5 @@
+C:\dev\DiagnosoftHello\test\test\bin\test.dll
+C:\dev\DiagnosoftHello\test\test\bin\test.pdb
+C:\dev\DiagnosoftHello\test\test\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\DiagnosoftHello\test\test\obj\Debug\test.dll
+C:\dev\DiagnosoftHello\test\test\obj\Debug\test.pdb
